@@ -1,0 +1,21 @@
+Environments
+
+venv/
+env/
+.env
+
+Python artifacts
+
+pycache/
+*.py[cod]
+*$py.class
+
+Output files (You generally don't want to upload generated reports to GitHub)
+
+outputs/
+charts/
+
+OS generated files
+
+.DS_Store
+Thumbs.db
