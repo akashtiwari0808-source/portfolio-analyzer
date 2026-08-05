@@ -10,7 +10,8 @@ A professional-grade, automated portfolio analysis tool built in Python. This sc
 
 
 
-(Replace these placeholder links with actual screenshots of your project once uploaded)
+<img width="1889" height="908" alt="{E774B885-35B9-4B54-B0ED-46640915BA46}" src="https://github.com/user-attachments/assets/3860faf4-d039-428a-bb2a-e46f0ff678c6" />
+
 
 
 
