@@ -125,8 +125,8 @@ source venv/bin/activate
 
 
 
-pip install pandas numpy yfinance pandas\_ta matplotlib openpyxl reportlab
 
+pip install -r requirements.txt
 
 
 
