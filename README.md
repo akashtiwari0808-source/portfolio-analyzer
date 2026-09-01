@@ -95,7 +95,7 @@ Report Generation: reportlab (PDF), openpyxl (Excel)
 
 
 
-git clone https://github.com/YourUsername/portfolio-analyzer.git
+git clone https://github.com/akashtiwari0808-source/portfolio-analyzer.git
 
 cd portfolio-analyzer
 
@@ -215,13 +215,8 @@ GitHub: @akashtiwari0808-source
 
 
 
-LinkedIn: https://www.linkedin.com/me?trk=p\_mwlite\_feed-secondary\_nav
+LinkedIn: www.linkedin.com/in/akash-tiwari-28a0181b9
 
 
 
-Email: akashtiwari0808@gmail.com
-
-
-
-Mobile: 9022913185
 
